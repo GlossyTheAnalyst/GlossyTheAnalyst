@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GlossyTheAnalyst
+- 👀 I’m interested in Analysing Data
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me mosesglory1980@gmail.com
